@@ -1,3 +1,3 @@
 
-image slideshow <br>
+images slideshow <br>
 HTML CSS JAVASCRIPT
